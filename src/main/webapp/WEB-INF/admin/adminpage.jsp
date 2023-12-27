@@ -372,7 +372,7 @@ document.getElementById('detail').submit();
 							<td><fmt:formatDate value="${course.registereddate}"
 									pattern="yyyy-MM-dd" /></td>
 		          			<td><button class="kickCourse triggerbtn" value="${course.coursecode }">삭제</button></td>
-
+ 
 						</tr>
 					</c:forEach>
 				</tbody>
