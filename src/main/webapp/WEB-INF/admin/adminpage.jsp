@@ -361,7 +361,7 @@ document.getElementById('detail').submit();
 					<th class="admin_board_head">내용</th>
 					<th class="admin_board_head">작성일</th>
 					<th class="admin_board_head"></th>
-					
+					 
 				</thead>
 				<tbody>
 					<c:forEach var="course" items="${courseAndNickname }">
