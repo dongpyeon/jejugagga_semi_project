@@ -300,7 +300,7 @@
                     <img src="${root}/res/photo/qnaQ4.png" alt="아이콘" class="accordion-button-img">
                     <span class="accordion-title" style="margin-left: 0px;">목적지에 가고있는 사람의 수 정보는 알수없나요?</span>
                     <span class="icon" aria-hidden="true"></span>
-                </button>
+                </button> 
                 <div class="accordion-content">
                     <p>○ 현재 그러한 기능은 존재하지 않습니다. 빠른 시간내에 기능추가건의 게시판을 만들어 고객님들의 추가 요청사항을 받도록 하겠습니다.</p>
                 </div>
